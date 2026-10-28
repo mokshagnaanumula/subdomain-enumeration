@@ -1,0 +1,9 @@
+www
+api
+mail
+portal
+dev
+staging
+vpn
+status
+
